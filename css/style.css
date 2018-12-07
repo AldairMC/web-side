@@ -1,0 +1,13 @@
+#colorCabecera{
+  background: #21B3AF;
+  height: 250px;
+}
+
+#estiloPerfil{
+  float: left;
+  background: #000000;
+  height: 250px;
+  width: 200px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
