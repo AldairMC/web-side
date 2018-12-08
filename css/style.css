@@ -1,6 +1,7 @@
 #colorCabecera{
   background: #21B3AF;
   height: 250px;
+
 }
 
 #estiloPerfil{
@@ -10,4 +11,22 @@
   width: 200px;
   margin-top: 30px;
   margin-left: 20px;
+}
+
+#tipoPerfil{
+  text-align: center;
+  font-family: Arial;
+  font-size: 35px;
+}
+
+#nombreCabecera{
+  text-align: center;
+  padding-top: 70px;
+  font-size: 3em;
+}
+
+.ajuste{
+  width: 80%;
+  text-align: center;
+  margin: auto;
 }
