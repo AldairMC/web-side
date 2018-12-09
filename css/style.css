@@ -25,6 +25,17 @@
   font-size: 3em;
 }
 
+#footer{
+  height: 200px;
+  background: #747A7A;
+
+}
+
+#pie{
+  text-align: center;
+  padding-top: 150px;
+}
+
 .ajuste{
   width: 80%;
   text-align: center;
