@@ -92,9 +92,21 @@ li{
   display: inline-block;
   margin-left: 200px;
   margin-top: 10px;
-  
+}
 
+.skill{
+  display: inline-block;
+  background-color: red;
+  width: 45%;
+  text-align: center;
+  position: relative;
 
+}
+
+.skillImg{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
 }
 
 .informacion{
